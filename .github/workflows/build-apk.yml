@@ -29,6 +29,4 @@ jobs:
         with:
           name: app-release
           path: build/app/outputs/flutter-apk/app-release.apk
-git add .
-git commit -m "Added GitHub Action to build APK"
-git push origin main
+
